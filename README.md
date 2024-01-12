@@ -8,6 +8,7 @@ Pandas
 NumPy
 scikit-learn
 Data
+
 The code assumes the presence of the following CSV file in the current working directory:
 anime.csv: Contains information about anime shows, including anime_id, name, genre, type, episodes, rating, and members.
 
