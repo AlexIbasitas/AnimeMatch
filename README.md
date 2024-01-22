@@ -23,6 +23,6 @@ The code assumes the presence of the following CSV file in the current working d
 4.  Enter the desired anime title into the search box located in the application window to receive the top 5 personalized recommendations for similar anime titles.
     - Click on the poster titles to be redirected to a page for more information on that title
 
-
-https://github.com/AlexIbasitas/AnimeMatch/assets/77213807/d1ede859-2f18-4d9b-8cca-0e9550300549
+### Demo
+https://github.com/AlexIbasitas/AnimeMatch/assets/77213807/29f3f815-6532-4aaa-88f2-c1f7520aafed
 
