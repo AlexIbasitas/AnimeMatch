@@ -13,3 +13,5 @@ The code assumes the presence of the following CSV file in the current working d
 anime.csv: Contains information about anime shows, including anime_id, name, genre, type, episodes, rating, and members.
 
 
+https://github.com/AlexIbasitas/AnimeMatch/assets/77213807/d1ede859-2f18-4d9b-8cca-0e9550300549
+
