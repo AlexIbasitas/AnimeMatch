@@ -24,5 +24,5 @@ The code assumes the presence of the following CSV file in the current working d
     - Click on the poster titles to be redirected to a page for more information on that title
 
 ### Demo
-https://github.com/AlexIbasitas/AnimeMatch/assets/77213807/29f3f815-6532-4aaa-88f2-c1f7520aafed
+https://github.com/AlexIbasitas/AnimeMatch/assets/77213807/1e08c228-941f-41e8-a89a-c93597a1c23e
 
