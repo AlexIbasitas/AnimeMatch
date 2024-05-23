@@ -26,3 +26,33 @@ The code assumes the presence of the following CSV file in the current working d
 ### Demo
 https://github.com/AlexIbasitas/AnimeMatch/assets/77213807/1e08c228-941f-41e8-a89a-c93597a1c23e
 
+
+
+
+
+# [](https://leetcode.com/problems/two-sum/description/)
+
+## Description
+
+Difficulty: **undefined**
+
+
+## Solution
+
+Language: ****
+
+```
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        hashmap = {}  # {key : val}
+        # O(1)  
+
+        for i in range(len(nums)):
+            if target-nums[i] in hashmap:
+                return [i, hashmap[target-nums[i]]]
+            hashmap[nums[i]] = i
+        
+        
+            
+[2,7,11,15]
+```
